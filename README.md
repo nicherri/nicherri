@@ -1,4 +1,3 @@
-# nicheri
 
 ![Banner](image/Barner-github.gif)
 

@@ -1,6 +1,6 @@
 # nicheri
 
-![Banner](image/#Barner-github.gif)
+![Banner](image/Barner-github.gif)
 
 Ciao a tutti! 👋  
 Sono Nicola, uno sviluppatore web con esperienza in ASP.NET Core MVC e Angular. Amo sviluppare soluzioni creative per il mondo digitale.

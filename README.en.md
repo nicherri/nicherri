@@ -28,8 +28,6 @@ I am always looking for new opportunities to grow and improve. I want to learn n
 - **Email**: [nicola.schirripa97@gmail.com](mailto:nicola.schirripa97@gmail.com)  
 - **Discord**: nicola_schirripa
 
-- 
-
 
 <div align="center">
   <picture>

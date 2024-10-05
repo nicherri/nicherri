@@ -1,6 +1,9 @@
 ![Banner](image/Barner-github.gif)
 
-[![English](https://img.shields.io/badge/-English-blue?style=flat&logo=google-translate)](README.en.md)
+[![🇬🇧 English Version](https://img.shiel) ds.io/badge/🇬🇧-English-blue)](README.en.md 
+
+
+[![🇮🇹 Versione Italiana](https://img.shields.io/badge/🇮🇹-Italiano-green)](README.md)
 
 Ciao a tutti! 👋  
 Sono Nicola, ho 27 anni e vengo da Catania. Ho da poco completato un bootcamp di 6 mesi con EPICODE.  

@@ -26,5 +26,5 @@ Sono sempre alla ricerca di nuove opportunità per crescere e migliorare. Voglio
 - **Discord**: nicola_schirripa
 
 
-![GitHub Snake Animation](https://github.com/tuo-username/snk/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/nicherri/snk/raw/output/github-contribution-grid-snake.svg)
 

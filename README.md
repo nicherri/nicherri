@@ -1,11 +1,7 @@
 ![Banner](image/Barner-github.gif)
 
 
-[![English]([https://user-images.githubusercontent.com/104776344/191293601-7bbf8e42-23d5-4c78-bcda-77dcb0541c4a.png](https://www.google.com/imgres?q=union%20jack&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F185228721%2Fphoto%2Fold-british-flag-union-jack.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DwAhRV_YTdJlZRq4JGHebovy3CY-6-jRH3k4Vumisllk%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fold-british-flag-union-jack-gm185228721-19776492&docid=dU73ft5KyIuV8M&tbnid=o7K6FsrcW8yJtM&vet=12ahUKEwi7lqHIxveIAxXTgf0HHU4_H3YQM3oECFIQAA..i&w=612&h=303&hcb=2&ved=2ahUKEwi7lqHIxveIAxXTgf0HHU4_H3YQM3oECFIQAA)](README.en.md) [English Version](README.en.md)  
-
-[![Italian](https://user-images.githubusercontent.com/104776344/191293648-8128d014-5c9f-48c6-ae6f-3b273fc9263a.png)](README.md) [Versione Italiana](README.md)
-
-
+🌍 [English Version](README.en.md)
 
 Ciao a tutti! 👋  
 Sono Nicola, ho 27 anni e vengo da Catania. Ho da poco completato un bootcamp di 6 mesi con EPICODE.  

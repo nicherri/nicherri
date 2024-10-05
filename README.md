@@ -2,7 +2,7 @@
 
 ![🇬🇧](https://img.shields.io/badge/English%20Version-blue) [English Version](README.en.md)  
 
-[![🇮🇹 Versione Italiana](https://img.shields.io/badge/🇮🇹-Italiano-green)](README.md)
+![🇮🇹](https://img.shields.io/badge/Versione%20Italiana-green) [Versione Italiana](README.md)
 
 Ciao a tutti! 👋  
 Sono Nicola, ho 27 anni e vengo da Catania. Ho da poco completato un bootcamp di 6 mesi con EPICODE.  

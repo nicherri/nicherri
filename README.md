@@ -1,6 +1,6 @@
 ![Banner](image/Barner-github.gif)
 
-![🇬🇧](https://img.shields.io/badge/English%20Version-blue) [English Version](README.en.md)  
+🇬🇧 [English Version](README.en.md)  
 
 ![🇮🇹](https://img.shields.io/badge/Versione%20Italiana-green) [Versione Italiana](README.md)
 

@@ -1,6 +1,6 @@
-[Read this in English](README.en.md)
-
 ![Banner](image/Barner-github.gif)
+
+ 🇬🇧 [Read this in English](README.en.md)
 
 Ciao a tutti! 👋  
 Sono Nicola, ho 27 anni e vengo da Catania. Ho da poco completato un bootcamp di 6 mesi con EPICODE.  

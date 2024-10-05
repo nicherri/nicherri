@@ -1,7 +1,9 @@
 ![Banner](image/Barner-github.gif)
 
-🇬🇧 🇬🇧 [English Version](README.en.md)  
-🇮🇹 [Versione Italiana](README.md)
+
+[![English](https://user-images.githubusercontent.com/104776344/191293601-7bbf8e42-23d5-4c78-bcda-77dcb0541c4a.png)](README.en.md) [English Version](README.en.md)  
+[![Italian](https://user-images.githubusercontent.com/104776344/191293648-8128d014-5c9f-48c6-ae6f-3b273fc9263a.png)](README.md) [Versione Italiana](README.md)
+
 
 
 Ciao a tutti! 👋  

@@ -25,3 +25,6 @@ Sono sempre alla ricerca di nuove opportunità per crescere e migliorare. Voglio
 - **Email**: [nicola.schirripa97@gmail.com](mailto:nicola.schirripa97@gmail.com)  
 - **Discord**: nicola_schirripa
 
+
+![GitHub Snake Animation](https://github.com/tuo-username/snk/blob/output/github-contribution-grid-snake.svg)
+

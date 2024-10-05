@@ -1,6 +1,6 @@
 [Leggi questo in italiano](README.md)
 
-![Banner](image/Barner-github.gif)
+![Banner](image/egBarnerGithub.gif)
 
 Hello everyone! 👋  
 I'm Nicola, a 27-year-old web developer from Catania, Italy. I recently completed a 6-month bootcamp with EPICODE.  

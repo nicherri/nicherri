@@ -3,7 +3,6 @@
 [![🇬🇧 English Version](https://img.shiel) ds.io/badge/🇬🇧-English-blue)](README.en.md)
 
 
-
 [![🇮🇹 Versione Italiana](https://img.shields.io/badge/🇮🇹-Italiano-green)](README.md)
 
 Ciao a tutti! 👋  

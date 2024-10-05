@@ -6,6 +6,10 @@ Hello everyone! 👋
 I'm Nicola, a 27-year-old web developer from Catania, Italy. I recently completed a 6-month bootcamp with EPICODE.  
 My Capstone Project ([link](https://github.com/nicherri/Capstone-Finale.git)) is now complete and available in the linked repository. It demonstrates the skills and knowledge I have acquired during the bootcamp.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicherri&locale=en&layout=compact&theme=dracula&langs_count=5&hide_border=false" alt="Top Langs">
+</div>
+
 ## Technologies and Tools
 ### Frontend
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) ![Flexbox](https://img.shields.io/badge/-Flexbox-1572B6?logo=css3&logoColor=white) ![AJAX](https://img.shields.io/badge/-AJAX-1572B6?logo=css3&logoColor=white) ![DOM](https://img.shields.io/badge/-DOM-F7DF1E?logo=javascript&logoColor=black)
@@ -23,3 +27,14 @@ I am always looking for new opportunities to grow and improve. I want to learn n
 - [LinkedIn](https://www.linkedin.com/in/nicola-schirripa/)
 - **Email**: [nicola.schirripa97@gmail.com](mailto:nicola.schirripa97@gmail.com)  
 - **Discord**: nicola_schirripa
+
+- 
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nicherri/snk/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/nicherri/snk/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/nicherri/snk/raw/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>

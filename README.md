@@ -6,7 +6,7 @@
 
 
 Ciao a tutti! 👋  
-Sono Nicola, ho 27 anni e vengo da Catania. Ho da poco completato un bootcamp di 6 mesi con EPICODE.  
+Sono Nicola, ho 28 anni e vengo da Catania. Ho da poco completato un bootcamp di 6 mesi con EPICODE.  
 Il mio Capstone Project ([link](https://github.com/nicherri/Capstone-Finale.git)) è ora completo e visibile nel repository linkato. Mostra le competenze e le conoscenze che ho acquisito durante il bootcamp.
 
 <div align="center">
